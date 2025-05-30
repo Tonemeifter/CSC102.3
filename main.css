@@ -1,0 +1,38 @@
+body{
+    background-color: maroon;
+    color: burlywood;
+}
+
+nav{
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+   
+}
+
+memeImage{
+    margin-right: 200px;
+}
+
+header{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-style: italic;
+}
+
+form{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
