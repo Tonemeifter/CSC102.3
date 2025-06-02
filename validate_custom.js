@@ -1,3 +1,4 @@
+//Created by Richie Cardiel, Date: 06/01/2025
 // Function to validate the form inputs
 function validateForm() {
     // Get input values from the form fields and trim extra spaces
